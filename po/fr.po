@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the platecodes.arc676 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: platecodes.arc676\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-13 09:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/AboutView.qml:40
+msgid "written by Arc676/Alessandro Vinciguerra. Project available under"
+msgstr "Écrit par Arc676/Alessandro Vinciguerra. Projet disponible sous"
+
+#: ../qml/AboutView.qml:44
+msgid ""
+"This program is free software: you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation (version 3)."
+msgstr "Ce programme est un logiciel libre ; vous pouvez le redistribuer ou le modifier "
+"suivant les termes de la Licence Publique Générale GNU telle que publiée par la "
+"Fondation du Logiciel Libre (Free Software Foundation) version 3."
+
+#: ../qml/AboutView.qml:48
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for "
+"more details."
+msgstr "Ce programme est distribué dans l’espoir qu’il sera utile, mais SANS AUCUNE "
+"GARANTIE : sans même la garantie implicite de COMMERCIALISABILITÉ "
+"ni d’ADÉQUATION À UN OBJECTIF PARTICULIER. Consultez la Licence Publique Générale GNU pour plus de détails."
+
+#: ../qml/AboutView.qml:52
+msgid ""
+"For the full license text, visit the <a href='https://github.com/Arc676/"
+"PlateCodes-Linux'>repository</a> or the <a href='http://www.gnu.org/"
+"licenses/'>GNU licenses page</a>"
+msgstr ""
+"Pour le texte complet de la licence, visitez le dépôt <a href='https://github.com/Arc676/"
+"PlateCodes-Linux'></a> ou la <a href='http://www.gnu.org/"
+"licenses/'>page des licences GNU</a>"
+
+#: ../qml/AboutView.qml:56
+msgid "%1 assets"
+msgstr "%1 actifs"
+
+#: ../qml/AboutView.qml:61
+msgid "Application icon by Arc676/Alessandro Vinciguerra"
+msgstr "Icône de l'application par Arc676/Alessandro Vinciguerra"
+
+#: ../qml/AboutView.qml:65
+msgid ""
+"All the content in this application is available under Wikipedia's Creative "
+"Commons License (Text of Creative Commons Attribution-ShareAlike 3.0 "
+"Unported License).\n"
+"\n"
+"This means you are free to share and adapt the work under the condition that "
+"you attribute the source. You also must distribute the result under the "
+"same, similar, or compatible license.\n"
+"\n"
+"Sources\n"
+"https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_China\n"
+"https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Italy\n"
+"https://de.wikipedia.org/wiki/Diplomatenkennzeichen_(Deutschland)\n"
+"https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Switzerland\n"
+"https://de.wikipedia.org/wiki/Liste_der_Kfz-Kennzeichen_in_Deutschland\n"
+"https://en.wikipedia.org/wiki/Departments_of_France"
+msgstr ""
+"Tout le contenu dans cette application est disponible sous la Licence Creative "
+"Commons de Wikipedia (Texte de la licence Creative Commons Attribution-Partage à l'identique 3.0"
+").\n"
+"\n"
+"Ceci signifie que vous êtes libres de partager et d'adapter ce travail à la condition que vous citiez "
+"la source. Vous devez également distribuer le résultat sous une licence "
+"similaire ou compatible.\n"
+"\n"
+"Sources\n"
+"https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_China\n"
+"https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Italy\n"
+"https://de.wikipedia.org/wiki/Diplomatenkennzeichen_(Deutschland)\n"
+"https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Switzerland\n"
+"https://de.wikipedia.org/wiki/Liste_der_Kfz-Kennzeichen_in_Deutschland\n"
+"https://en.wikipedia.org/wiki/Departments_of_France"
+
+#: ../qml/DefaultHeader.qml:20 platecodes.desktop.in.h:1
+msgid "PlateCodes"
+msgstr "Codes de plaques"
+
+#: ../qml/DefaultHeader.qml:27
+msgid "About PlateCodes"
+msgstr "À propos de Codes de plaques"
+
+#: ../qml/Main.qml:45
+msgid "Regex:"
+msgstr "Règle :"
+
+#: ../qml/Main.qml:92
+msgid "Embassies in Beijing, China"
+msgstr "Ambassades de Pékin, Chine"
+
+#: ../qml/Main.qml:93
+msgid "Chinese Provinces"
+msgstr "Provinces chinoises"
+
+#: ../qml/Main.qml:94
+msgid "Italian Provinces"
+msgstr "Provinces italiennes"
+
+#: ../qml/Main.qml:95
+msgid "Embassies in Berlin and Bonn, Germany"
+msgstr "Ambassades de Berlin et de Bonn, Allemagne"
+
+#: ../qml/Main.qml:96
+msgid "German Vehicle Licensing Authority Codes"
+msgstr "Codes des autorités de licences de véhicules allemands"
+
+#: ../qml/Main.qml:97
+msgid "Swiss Cantons"
+msgstr "Cantons suisses"
+
+#: ../qml/Main.qml:98
+msgid "French Departments"
+msgstr "Départements français"
