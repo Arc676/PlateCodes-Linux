@@ -1,4 +1,3 @@
-//  Copyright © 2017-9 Arc676/Alessandro Vinciguerra. All rights reserved.
 //  Text in just this file available under Wikipedia's Creative Commons License
 //  (Text of Creative Commons Attribution-ShareAlike 3.0 Unported License).
 
@@ -321,7 +320,7 @@ var searchItems = [
 				"黑M - Suihua 绥化",
 				"黑N - Heihe 黑河",
 				"黑P - Daxing'anling Prefecture 大兴安岭地区",
-				"黑R - Farming system"
+				"黑R - Farming system",
 				"豫 - Henan 河南",
 				"豫A - Zhengzhou 郑州",
 				"豫B - Kaifeng 开封",

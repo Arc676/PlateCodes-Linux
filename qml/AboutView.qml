@@ -1,4 +1,4 @@
-//Copyright (C) 2019 Arc676/Alessandro Vinciguerra <alesvinciguerra@gmail.com>
+//Copyright (C) 2019-21 Arc676/Alessandro Vinciguerra <alesvinciguerra@gmail.com>
 
 //This program is free software: you can redistribute it and/or modify
 //it under the terms of the GNU General Public License as published by
@@ -37,7 +37,7 @@ Page {
 			spacing: margin
 
 			WrappingLabel {
-				text: "PlateCodes - " +i18n.tr("written by Arc676/Alessandro Vinciguerra. Project available under") + " GPLv3. Copyright 2017-9 Arc676/Alessandro Vinciguerra <alesvinciguerra@gmail.com>"
+				text: "PlateCodes - " +i18n.tr("written by Arc676/Alessandro Vinciguerra. Project available under") + " GPLv3. Copyright 2017-21 Arc676/Alessandro Vinciguerra <alesvinciguerra@gmail.com>"
 			}
 
 			WrappingLabel {
