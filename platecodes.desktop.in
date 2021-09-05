@@ -1,6 +1,6 @@
 [Desktop Entry]
 _Name=PlateCodes
-Exec=qmlscene qml/Root.qml
+Exec=qmlscene %U qml/Root.qml
 Icon=assets/PlateCodes.png
 Terminal=false
 Type=Application
