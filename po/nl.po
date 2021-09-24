@@ -32,7 +32,7 @@ msgstr "Chinese provincies"
 
 #: ../qml/Main.qml:94
 msgid "Italian Provinces"
-msgstr "Italiaanse privoncies"
+msgstr "Italiaanse provincies"
 
 #: ../qml/Main.qml:95
 msgid "Embassies in Berlin and Bonn, Germany"
